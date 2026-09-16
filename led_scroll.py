@@ -9,7 +9,7 @@ MATRIX_HEIGHT = 8
 NUM_PIXELS = MATRIX_WIDTH * MATRIX_HEIGHT
 
 # 2. Setup your text and colors
-TEXT_TO_SHOW = " HELLO STEAM CLUB "
+TEXT_TO_SHOW = " HELLO PARENTS "
 TEXT_COLOR = (255, 0, 0)      # Red (R, G, B)
 BACKGROUND_COLOR = (0, 0, 0)  # Off
 BRIGHTNESS = 0.15             # 15% brightness
